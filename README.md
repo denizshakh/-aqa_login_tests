@@ -1,6 +1,3 @@
-
-
-
 # AQA Login Tests (Python + Selenium)
 
 ## 📌 Описание проекта
